@@ -1,0 +1,38 @@
+{
+  "data": {
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTYzMzczMTAwNiwianRpIjoiZGY4ZTM3ZjU1YTk4NGYxZWJlNDQyODhhODU5NWIwOWYiLCJ1c2VyX2lkIjo4fQ.SXekACBgRhHiXN6OYw0mzcJe1DER71Yj82dtU8F-WIQ",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjMzNjQ4MjA2LCJqdGkiOiJjMjc5Mzk5Y2NhZGY0MTQwOTQyNTAwYzRhYWJjYTEyMyIsInVzZXJfaWQiOjh9.7yCpUxB0Z6hUR0Ql8isRWbG65eteTM5cMQDHSqB8NQE"
+  },
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "access-control-allow-credentials": "true",
+    "access-control-allow-origin": "http://localhost:3000",
+    "connection": "keep-alive",
+    "content-length": "438",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Thu, 07 Oct 2021 22:10:06 GMT",
+    "etag": "W/\"1b6-qV183j2s2cuzHuAGULoDuPZv0Pk\"",
+    "vary": "Origin",
+    "x-powered-by": "Express"
+  },
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "transformRequest": [null],
+    "transformResponse": [null],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "headers": { "Accept": "application/json, text/plain, */*" },
+    "baseURL": "http://localhost:3000/",
+    "method": "post",
+    "url": "http://localhost:3000/api/register"
+  },
+  "request": {}
+}
